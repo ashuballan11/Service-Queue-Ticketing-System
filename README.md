@@ -81,7 +81,6 @@ g++ src/service_queue_ticketing_system.cpp -o ticket_system
 
 ## Authors
 
-Ahmed Ibrahim  
 Ashutosh Ballan
 
 ## Academic Project
